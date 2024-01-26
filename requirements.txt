@@ -1,5 +1,5 @@
 Flask
-Flask-SQLAlchemy
+flask_sqlalchemy
 Flask-Marshmallow
 marshmallow-sqlalchemy
 pandas

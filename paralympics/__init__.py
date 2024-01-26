@@ -63,4 +63,4 @@ def create_app(test_config=None):
 
 
 # Import can be here instead (but not at the top of the file) to avoid circular import issues
-# from paralympics.models import Region, Event, User
+from paralympics.models import Region, Event, User
